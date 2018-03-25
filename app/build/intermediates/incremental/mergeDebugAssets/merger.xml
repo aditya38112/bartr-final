@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\ForSale-master\ForSale-master\app\src\main\assets"><file name="icon.png" path="C:\ForSale-master\ForSale-master\app\src\main\assets\icon.png"/></source><source path="C:\ForSale-master\ForSale-master\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\ForSale-master\ForSale-master\app\src\debug\assets"/></dataSet></merger>

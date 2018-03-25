@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "311402828658",
+    "firebase_url": "https://forsale-4c476.firebaseio.com",
+    "project_id": "forsale-4c476",
+    "storage_bucket": "forsale-4c476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311402828658:android:59353c8d9b7e2b23",
+        "android_client_info": {
+          "package_name": "codingwithmitch.com.forsale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311402828658-jhsavdv9e5u715v1j70vigpk9q42se08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUDkh4Av0qFa0qa25Fato5hNTv9ue2fww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311402828658:android:eddb053c9c5e0f39",
+        "android_client_info": {
+          "package_name": "bartr.underdogz.hackfest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311402828658-jhsavdv9e5u715v1j70vigpk9q42se08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUDkh4Av0qFa0qa25Fato5hNTv9ue2fww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

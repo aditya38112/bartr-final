@@ -1,0 +1,4 @@
+#Sat Mar 24 23:45:52 IST 2018
+base.0=C\:\\ForSale-master\\ForSale-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\141
+path.0=classes.dex
+renamed.0=classes.dex
